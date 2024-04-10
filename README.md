@@ -1,2 +1,3 @@
-# passwordaes-desktop
-Password manager.
+# Passwordaes desktop
+A password manager in development with aes encryption ...
+
